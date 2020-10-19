@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,10 +24,26 @@ namespace Exercise3
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			inchText = inchesText.Text;
-			inch = Convert.ToDouble(inchText);
-			cm = inch * 2.54;
-			cmText.Text = Convert.ToString(cm);
+			try
+			{
+				inchText = inchesText.Text;
+				inch = Convert.ToDouble(inchText);
+				cm = inch * 2.540;
+			}
+			catch (NullReferenceException x)
+			{
+				Console.WriteLine(x);
+			}
+
+			catch (IOException x)
+			{
+				Console.WriteLine(x);
+			}
+
+			finally
+			{
+				cmText.Text = Convert.ToString(cm);
+			}
 		}
 	}
 }
