@@ -1,0 +1,10 @@
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\bin\Debug\ProgrammingProject2.exe.config
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\bin\Debug\ProgrammingProject2.exe
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\bin\Debug\ProgrammingProject2.pdb
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\obj\Debug\ProgrammingProject2.csprojAssemblyReference.cache
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\obj\Debug\ProgrammingProject2.Form1.resources
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\obj\Debug\ProgrammingProject2.Properties.Resources.resources
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\obj\Debug\ProgrammingProject2.csproj.GenerateResource.cache
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\obj\Debug\ProgrammingProject2.csproj.CoreCompileInputs.cache
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\obj\Debug\ProgrammingProject2.exe
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject2\obj\Debug\ProgrammingProject2.pdb
