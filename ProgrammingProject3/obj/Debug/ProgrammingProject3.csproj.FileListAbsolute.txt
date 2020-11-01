@@ -1,0 +1,10 @@
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\bin\Debug\ProgrammingProject3.exe.config
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\bin\Debug\ProgrammingProject3.exe
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\bin\Debug\ProgrammingProject3.pdb
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\obj\Debug\ProgrammingProject3.csprojAssemblyReference.cache
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\obj\Debug\ProgrammingProject3.Form.resources
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\obj\Debug\ProgrammingProject3.Properties.Resources.resources
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\obj\Debug\ProgrammingProject3.csproj.GenerateResource.cache
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\obj\Debug\ProgrammingProject3.csproj.CoreCompileInputs.cache
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\obj\Debug\ProgrammingProject3.exe
+C:\Users\casey_8au3dlg\source\repos\ProgrammingProject3\obj\Debug\ProgrammingProject3.pdb

@@ -1,0 +1,36 @@
+Initial list of words read from file: 
+
+The
+Quick
+Brown
+fox
+Jumped
+over
+the
+Lazy
+Dog
+
+Converting all to lowercase: 
+
+the
+quick
+brown
+fox
+jumped
+over
+the
+lazy
+dog
+
+The first word alphabetically is: 
+brown
+
+The last word alphabetically is: 
+the
+
+The longest word is: 
+jumped
+
+The first word with the most vowels is: 
+
+quick with 2 vowels.
