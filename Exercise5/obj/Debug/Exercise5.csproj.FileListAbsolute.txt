@@ -1,0 +1,10 @@
+C:\Users\casey_8au3dlg\source\repos\Exercise5\bin\Debug\Exercise5.exe.config
+C:\Users\casey_8au3dlg\source\repos\Exercise5\bin\Debug\Exercise5.exe
+C:\Users\casey_8au3dlg\source\repos\Exercise5\bin\Debug\Exercise5.pdb
+C:\Users\casey_8au3dlg\source\repos\Exercise5\obj\Debug\Exercise5.csprojAssemblyReference.cache
+C:\Users\casey_8au3dlg\source\repos\Exercise5\obj\Debug\Exercise5.Form1.resources
+C:\Users\casey_8au3dlg\source\repos\Exercise5\obj\Debug\Exercise5.Properties.Resources.resources
+C:\Users\casey_8au3dlg\source\repos\Exercise5\obj\Debug\Exercise5.csproj.GenerateResource.cache
+C:\Users\casey_8au3dlg\source\repos\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\casey_8au3dlg\source\repos\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\casey_8au3dlg\source\repos\Exercise5\obj\Debug\Exercise5.pdb
