@@ -29,10 +29,10 @@ namespace Programming_Project_5
 
             // Determine year
             year = Int32.Parse(comboBoxYear.Text.ToLower());
-            luckyNumber = year / 100;
+            luckyNumber = (year / 10) - 22;
 
             // Determine month
-            month = comboBoxMonth.Text;
+            month = comboBoxMonth.Text.ToLower();
             switch (month)
             {
                 case "january":
@@ -121,5 +121,36 @@ namespace Programming_Project_5
             f1.Show();
             this.Dispose(false);
         }
+
+        private void comboBoxDay_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void comboBoxMonth_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            String month = comboBoxMonth.Text.ToLower();
+            if (month.Equals("february"))
+            {
+                if(comboBoxDay.Items.Count > 29)
+                {
+                    comboBoxDay.Items.Remove("30");
+                    comboBoxDay.Items.Remove("31");
+
+                }
+                
+            }
+            if (month.Equals("april") || month.Equals("june") || month.Equals("september") || month.Equals("november"))
+            {
+                if (comboBoxDay.Items.Count > 30)
+                {
+                    comboBoxDay.Items.Remove("31");
+                }
+                
+            }
+        }
     }
 }
+/*
+
+*/

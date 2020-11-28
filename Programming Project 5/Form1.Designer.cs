@@ -150,6 +150,7 @@
             this.comboBoxMonth.Name = "comboBoxMonth";
             this.comboBoxMonth.Size = new System.Drawing.Size(121, 21);
             this.comboBoxMonth.TabIndex = 5;
+            this.comboBoxMonth.SelectedIndexChanged += new System.EventHandler(this.comboBoxMonth_SelectedIndexChanged);
             // 
             // comboBoxDay
             // 
@@ -190,6 +191,7 @@
             this.comboBoxDay.Name = "comboBoxDay";
             this.comboBoxDay.Size = new System.Drawing.Size(121, 21);
             this.comboBoxDay.TabIndex = 6;
+            this.comboBoxDay.SelectedIndexChanged += new System.EventHandler(this.comboBoxDay_SelectedIndexChanged);
             // 
             // comboBoxColor
             // 
