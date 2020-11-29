@@ -1,0 +1,13 @@
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\bin\Debug\Milestone 4.exe.config
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\bin\Debug\Milestone 4.exe
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\bin\Debug\Milestone 4.pdb
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone 4.csprojAssemblyReference.cache
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone_4.inventoryForm.resources
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone_4.Properties.Resources.resources
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone 4.csproj.GenerateResource.cache
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone 4.csproj.CoreCompileInputs.cache
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone 4.exe
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone 4.pdb
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone_4.RestockForm.resources
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone_4.SearchForm.resources
+C:\Users\casey_8au3dlg\source\repos\Milestone 4\obj\Debug\Milestone_4.RemovalForm.resources
